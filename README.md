@@ -34,29 +34,12 @@ Below is the screenshot of the Excel dashboard:
 ---
 
 ## Project Insights
-- **Shipment Mode**:
-  - Regular Air: 74%
-  - Delivery Truck: 14%
-  - Express Air: 12%
+- **Shipment Mode Distribution**: Regular Air (74%), Delivery Truck (14%), Express Air (12%).
+- **Top Profitable States**: California, Texas, New York.
+- **Least Performing Products**: Polycom ViewStation, 5165, Okidata Pacemark 4410N.
+- **Top Sales Cities**: Washington, Thornton, New City.
+- **Sales Priority**: Critical orders dominate sales.
   
-- **Top 3 Profitable States**:
-  - California
-  - Texas
-  - New York
-
-- **Least 3 Performing Products**:
-  - Polycom ViewStation
-  - 5165
-  - Okidata Pacemark 4410N
-
-- **Top 3 Cities by Sales**:
-  - Washington
-  - Thornton
-  - New City
-
-- **Sales by Order Priority**:
-  - Critical orders constitute the majority of sales.
-
 ---
 
 ## Conclusion
